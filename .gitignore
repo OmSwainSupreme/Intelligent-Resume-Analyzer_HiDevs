@@ -66,3 +66,5 @@ output/
 # Users should avoid placing sensitive personal data in these directories
 # if they wish to prevent accidental commits. Consider using separate
 # directories for personal data or clearing these directories after use.
+node_modules/
+*.log
