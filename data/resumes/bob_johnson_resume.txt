@@ -1,0 +1,36 @@
+Bob Johnson
+bob.johnson@email.com | (555) 987-6543 | linkedin.com/in/bobjohnson
+
+SUMMARY
+Data scientist with 3 years of experience in machine learning, data analysis, and statistical modeling.
+
+SKILLS
+Python, R, SQL, Machine Learning, Deep Learning, TensorFlow, PyTorch, Pandas, NumPy, Scikit-learn, Tableau, Power BI, Statistics
+
+WORK EXPERIENCE
+Data Scientist | DataDriven Corp.
+March 2021 - Present
+- Developed predictive models for customer churn prediction (92% accuracy)
+- Created data pipelines using Python and AWS Glue
+- Built interactive dashboards using Tableau and Power BI
+- Presented findings to stakeholders and executive team
+
+Machine Learning Engineer | AI Solutions Ltd.
+August 2019 - February 2021
+- Implemented recommendation systems using collaborative filtering
+- Conducted A/B testing and statistical analysis
+- Optimized model performance using hyperparameter tuning
+- Published 2 research papers in ML conferences
+
+EDUCATION
+Master of Science in Data Science
+Tech Institute, 2019
+GPA: 3.9/4.0
+
+Bachelor of Science in Mathematics
+College of Science, 2017
+GPA: 3.7/4.0
+
+CERTIFICATIONS
+Google Cloud Professional Data Engineer
+Microsoft Certified: Azure AI Engineer Associate

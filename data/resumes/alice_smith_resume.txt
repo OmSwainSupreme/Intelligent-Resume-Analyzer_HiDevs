@@ -1,0 +1,36 @@
+Alice Smith
+alice.smith@email.com | (555) 123-4567 | linkedin.com/in/alicesmith | github.com/alicesmith
+
+SUMMARY
+Experienced software engineer with 5 years of expertise in full-stack development, specializing in Python, JavaScript, and cloud technologies.
+
+SKILLS
+Python, JavaScript, React, Node.js, AWS, Docker, Kubernetes, SQL, Git, Agile, REST APIs, Machine Learning
+
+WORK EXPERIENCE
+Senior Software Engineer | Tech Innovations Inc.
+January 2020 - Present
+- Developed scalable web applications using Python/Django and React
+- Led a team of 4 engineers in implementing microservices architecture
+- Reduced application latency by 40% through optimization and caching
+- Implemented CI/CD pipelines using Docker and Kubernetes
+
+Software Engineer | StartupXYZ
+June 2017 - December 2019
+- Built RESTful APIs using Python/Flask and PostgreSQL
+- Developed frontend components with React and Redux
+- Collaborated with UX designers to improve user experience
+- Participated in code reviews and agile ceremonies
+
+EDUCATION
+Master of Science in Computer Science
+University of Technology, 2017
+GPA: 3.8/4.0
+
+Bachelor of Science in Software Engineering
+State University, 2015
+GPA: 3.6/4.0
+
+CERTIFICATIONS
+AWS Certified Solutions Architect
+Docker Certified Associate

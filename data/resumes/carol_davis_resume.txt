@@ -1,0 +1,33 @@
+Carol Davis
+carol.davis@email.com | (555) 456-7890 | github.com/caroldavis
+
+SUMMARY
+DevOps engineer with 4 years of experience in cloud infrastructure, automation, and CI/CD pipelines.
+
+SKILLS
+AWS, Azure, Docker, Kubernetes, Jenkins, GitLab CI, Terraform, Ansible, Linux, Bash, Python, Monitoring, Prometheus, Grafana
+
+WORK EXPERIENCE
+DevOps Engineer | CloudNative Systems
+May 2020 - Present
+- Designed and implemented CI/CD pipelines for microservices
+- Managed Kubernetes clusters on AWS EKS and Azure AKS
+- Infrastructure as Code using Terraform and Ansible
+- Monitoring and logging with Prometheus, Grafana, and ELK stack
+
+System Administrator | HostingPro Inc.
+January 2018 - April 2020
+- Maintained Linux and Windows servers in datacenter environment
+- Automated routine tasks using Bash and Python scripts
+- Implemented backup and disaster recovery solutions
+- Provided technical support to internal teams
+
+EDUCATION
+Bachelor of Science in Information Technology
+Technical College, 2018
+GPA: 3.5/4.0
+
+CERTIFICATIONS
+Certified Kubernetes Administrator (CKA)
+AWS Certified DevOps Engineer
+HashiCorp Certified: Terraform Associate

@@ -1,0 +1,26 @@
+Data Scientist
+DataDriven Corp.
+Location: New York, NY (Remote Available)
+Employment Type: Full-time
+
+JOB DESCRIPTION
+Join our data science team to build machine learning models that drive business decisions and product improvements.
+
+REQUIRED SKILLS
+Python, Machine Learning, SQL, Pandas, Scikit-learn, Statistics, Data Visualization
+
+PREFERRED SKILLS
+Deep Learning, TensorFlow, PyTorch, Spark, AWS, Tableau, Power BI
+
+EXPERIENCE LEVEL
+Mid-level (2-4 years)
+
+MINIMUM YEARS OF EXPERIENCE
+2
+
+RESPONSIBILITIES
+- Develop machine learning models for prediction and classification
+- Clean, preprocess, and analyze large datasets
+- Create data pipelines and ETL processes
+- Communicate insights to stakeholders through reports and presentations
+- Stay updated with latest ML techniques and technologies

@@ -1,0 +1,26 @@
+DevOps Engineer
+CloudNative Systems
+Location: Seattle, WA
+Employment Type: Full-time
+
+JOB DESCRIPTION
+We are looking for a DevOps Engineer to help us scale our infrastructure and improve our deployment processes.
+
+REQUIRED SKILLS
+AWS, Docker, Kubernetes, Jenkins, Terraform, Linux, Bash, Python, Monitoring
+
+PREFERRED SKILLS
+Azure, GitLab CI, Prometheus, Grafana, Helm, Istio, CloudFormation
+
+EXPERIENCE LEVEL
+Mid-level (3-5 years)
+
+MINIMUM YEARS OF EXPERIENCE
+3
+
+RESPONSIBILITIES
+- Design, implement, and manage CI/CD pipelines
+- Maintain and optimize cloud infrastructure on AWS
+- Implement Infrastructure as Code using Terraform
+- Monitor system performance and troubleshoot issues
+- Collaborate with development teams to improve deployment frequency

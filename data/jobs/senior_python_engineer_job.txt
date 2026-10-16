@@ -1,0 +1,26 @@
+Senior Python Engineer
+Tech Innovations Inc.
+Location: San Francisco, CA
+Employment Type: Full-time
+
+JOB DESCRIPTION
+We are seeking a Senior Python Engineer to join our growing team. You will be responsible for developing and maintaining our core backend systems and APIs.
+
+REQUIRED SKILLS
+Python, Django, REST APIs, PostgreSQL, Docker, AWS, Git, Agile Methodologies
+
+PREFERRED SKILLS
+React, Kubernetes, Machine Learning, Redis, Elasticsearch
+
+EXPERIENCE LEVEL
+Senior (5+ years)
+
+MINIMUM YEARS OF EXPERIENCE
+5
+
+RESPONSIBILITIES
+- Design and implement backend services using Python/Django
+- Develop and maintain RESTful APIs for frontend consumption
+- Optimize database queries and application performance
+- Collaborate with cross-functional teams to deliver features
+- Mentor junior engineers and conduct code reviews
